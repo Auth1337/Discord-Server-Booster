@@ -28,6 +28,7 @@ SOFTWARE.
 import aiohttp
 import asyncio
 import os
+os.system("pip install tasksio")
 import sys
 from colorama import Fore
 import tasksio
