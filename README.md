@@ -2,3 +2,6 @@
 Discord Server Booster, Add Your Tokens in tokens.txt; And Run main.py using python3 main.py
 
 # https://discord.gg/lgnop
+
+# PATCHED
+Joiner is patched don't dm for support.
